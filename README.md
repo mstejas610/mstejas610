@@ -1,53 +1,40 @@
-# 👋 Hey there! I'm Tejas
+## Hi there! 👋
 
-🎓 **B.Tech CSE (Cyber Security)** @ Amrita Vishwa Vidyapeetham, Coimbatore  
-💡 Aspiring **Cloud Security Specialist** | Future **MBA Aspirant in Finance**  
-🚀 Passionate about **Cybersecurity | Cloud | Java | Data Analysis | AI Tools**  
-🌱 Currently exploring **Cloud Security, Java, and Competitive Programming**  
+I'm MAREDDY SAI TEJAS, a passionate university student currently studying at Amrita Vishwa Vidya Peetham in Coimbatore. I have a keen interest in coding and technology, and I love exploring new challenges in the world of programming.
 
----
+## About Me
 
-## 🔥 About Me
-- 💻 Strong interest in **Cybersecurity, Cloud, and AI in Security**  
-- 📊 Exploring **finance + cybersecurity** to build a unique personal brand  
-- 🏆 Working on **gamified cybersecurity learning platforms** (HTB-style)  
-- 📚 Preparing for **CAT, XAT, NMAT** exams (targeting 99+ %ile)  
-- 🤝 Open to **collaborations, internships, and research projects**  
+I'm a university student at Amrita Vishwa Vidya Peetham, focusing on Computer Science. I am passionate about coding and technology, and I am always eager to learn new skills and collaborate on exciting projects.
 
----
+## Skills & Technologies
 
-## 🛠️ Tech Stack
-### 🚀 Languages & Frameworks  
-- **Java | C++ | Python | JavaScript | TypeScript**  
-- **React | Node.js | Flask | Django**  
-- **Flutter | TailwindCSS | Bootstrap**  
+java,html,css,docker,react,nodejs,mysql,postgres,git,github,aws,flutter,gcp,azure,githubactions,figma
 
-### ☁️ Cloud & Security  
-- **AWS | Azure (Learning)**  
-- **Docker | GitHub Actions | CI/CD**  
-- **Cybersecurity Labs | Vulnerability Scanners | OWASP**  
+## Top Projects
 
-### 📊 Tools & Platforms  
-- **Power BI | Tableau | Excel (Data Viz)**  
-- **Git | GitHub | VS Code | Vite.js**  
-- **AI Tools (ChatGPT, Copilot alternatives, Bolt.so, AutoGen)**  
+- [MAREDDY-SAI-TEJAS](https://github.com/mstejas610/MAREDDY-SAI-TEJAS): Everything about me. 🌟  
+- [IoT_project](https://github.com/mstejas610/IoT_project): A repository to track and update details for my IoT project during my 6th semester. ⭐ 0, Language: Python  
+- [2024_20CYS383-Java-Programming-Lab](https://github.com/mstejas610/2024_20CYS383-Java-Programming-Lab): Java programming lab work for 4th semester. ⭐ 0, Language: Java  
+- [19CSE100-Problem-Solving-and-Algorithmic-Thinking](https://github.com/mstejas610/19CSE100-Problem-Solving-and-Algorithmic-Thinking): Flowgramming and algorithmic thinking for the 1st semester. ⭐ 0, Language: C  
+- [20CYS202-User_Interface_Design](https://github.com/mstejas610/20CYS202-User_Interface_Design): Projects involving user interface design. ⭐ 0, Language: Mixed
 
----
+## GitHub Stats
 
-## 📈 GitHub Stats
-![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstejas610&show_icons=true&theme=radical)
+📊 **GitHub Stats**  
+- **Public Repositories:** 9  
+- **Followers:** 4  
+- **Following:** 9  
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mstejas610&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstejas610&layout=compact&theme=radical)
+## Recent Activity
 
----
+- Watched [ossu/computer-science](https://github.com/ossu/computer-science)  
+- Watched [joe064507-source/LLM-BREK](https://github.com/joe064507-source/LLM-BREK)  
+- Watched [horselock/Jailbreaks](https://github.com/horselock/Jailbreaks)
 
-## 🏗️ Featured Projects
-- 🔐 **HackTheBox-style Cybersecurity Learning Platform** (React + Flask)  
-- 🎓 **Plazr – Placement Management SaaS for Colleges** (React + Node.js + PostgreSQL)  
-- 📊 **Placement Visualization Dashboard** (Google Stitch + Data Viz)  
-- 💍 **Dynamic Wedding Planner Platform** (React + Bootstrap + Vite)  
+## Latest Blog Posts
 
----
+No blog posts available at the moment.
 
 ## 🌍 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mareddy-sai-tejas/)  
