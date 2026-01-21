@@ -37,12 +37,12 @@ const tejas = {
 
 ---
 
-## 🎯 **Current Mission**
+## 🎯 Current Mission
 
 <div align="center">
-  
-  ![Current Project](https://img.shields.io/badge/🎯%20CURRENT%20PROJECT-Building%20Threat%20Intel%20Discord%20Bot-ff6b6b?style=for-the-badge&labelColor=2d3748)
-  
+
+![Current Project](https://img.shields.io/badge/🎯%20CURRENT%20PROJECT-Building%20WofY%20(Android%20Life%20Calendar%20Lockscreen)-ff6b6b?style=for-the-badge&labelColor=2d3748)
+
 </div>
 
 ---
